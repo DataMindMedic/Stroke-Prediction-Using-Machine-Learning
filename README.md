@@ -49,6 +49,15 @@ This project aims to predict the likelihood of a stroke in individuals based on 
 - matplotlib, seaborn
 - scikit-learn
 
+- ## 🧪 Model Performance
+
+- **Random Forest Classifier**
+  - Accuracy: 92%
+  - Precision: 88%
+  - Recall: 80%
+  - F1-Score: 84%
+
+
 ## 🚀 How to Run
 
 1. **Clone this repo**:
