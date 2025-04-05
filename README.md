@@ -63,7 +63,7 @@ Model achieved promising performance on test data
 Features like age, hypertension, and avg_glucose_level showed strong predictive power
 
 🙋‍♂️ Author
-Your Name: Micheal Omotosho
+Name: Micheal Omotosho
 GitHub: @EunMic9192
 
 ## 🚀 How to Run
