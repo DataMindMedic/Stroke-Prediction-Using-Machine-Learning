@@ -51,12 +51,20 @@ This project aims to predict the likelihood of a stroke in individuals based on 
 
 - ## 🧪 Model Performance
 
-- **Random Forest Classifier**
-  - Accuracy: 92%
-  - Precision: 88%
-  - Recall: 80%
-  - F1-Score: 84%
+| Model                    | Accuracy | Precision | Recall | F1 Score |
+|--------------------------|----------|-----------|--------|----------|
+| Random Forest            | 0.9511   | 0.0000    | 0.00   | 0.0000   |
+| Gradient Boosting        | 0.9472   | 0.0000    | 0.00   | 0.0000   |
+| Logistic Regression      | 0.9511   | 0.0000    | 0.00   | 0.0000   |
+| Support Vector Classifier| 0.7984   | 0.1321    | 0.56   | 0.2137   |
 
+📊 Results
+Model achieved promising performance on test data
+Features like age, hypertension, and avg_glucose_level showed strong predictive power
+
+🙋‍♂️ Author
+Your Name: Micheal Omotosho
+GitHub: @EunMic9192
 
 ## 🚀 How to Run
 
