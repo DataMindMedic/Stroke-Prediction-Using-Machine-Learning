@@ -72,4 +72,4 @@ GitHub: @DataMindMedic
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/DataMindMedic/stroke-prediction.git
+   git clone https://github.com/DataMindMedic/Stroke-Prediction-Using-Machine-Learning.git
