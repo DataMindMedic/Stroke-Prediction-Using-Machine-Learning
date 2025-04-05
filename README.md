@@ -58,7 +58,8 @@ This project aims to predict the likelihood of a stroke in individuals based on 
 | Logistic Regression      | 0.9511   | 0.0000    | 0.00   | 0.0000   |
 | Support Vector Classifier| 0.7984   | 0.1321    | 0.56   | 0.2137   |
 
-📊 Results
+## 📊 Results
+
 Model achieved promising performance on test data
 Features like age, hypertension, and avg_glucose_level showed strong predictive power
 
