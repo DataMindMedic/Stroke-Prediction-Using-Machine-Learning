@@ -63,8 +63,9 @@ This project aims to predict the likelihood of a stroke in individuals based on 
 Model achieved promising performance on test data
 Features like age, hypertension, and avg_glucose_level showed strong predictive power
 
-# 🙋‍♂️ Author
+## 🙋‍♂️ Author
 Name: Micheal Omotosho
+
 GitHub: @DataMindMedic
 
 ## 🚀 How to Run
