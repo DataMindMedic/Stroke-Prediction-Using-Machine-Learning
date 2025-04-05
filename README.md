@@ -64,7 +64,7 @@ Features like age, hypertension, and avg_glucose_level showed strong predictive 
 
 🙋‍♂️ Author
 Name: Micheal Omotosho
-GitHub: @EunMic9192
+GitHub: @DataMindMedic
 
 ## 🚀 How to Run
 
